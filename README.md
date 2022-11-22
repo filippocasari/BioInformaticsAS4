@@ -15,9 +15,9 @@ matrix = BLOSUM50
 gap open = -5
 gap extend = -1
 ```
-- Build the wmer matrix and find the HSPs [ 2 point ]
-- Perform the extensions [ 2 point ]
-- Connect final HSPs [ 3 points ]
+- Build the wmer matrix and find the HSPs
+- Perform the extensions
+- Connect final HSPs
 
 Question 4: The sequences below are each a segment of the WNT3A genes involved in tail formation in several animals (already aligned):
 ```
